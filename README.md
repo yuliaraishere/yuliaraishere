@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuliaraishere
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning anything related to JavaScript
 - 💞️ I’m looking to collaborate on develope anything
 - 📫 How to reach me is by send an email to yuliarizkianjani@gmail.com
 
